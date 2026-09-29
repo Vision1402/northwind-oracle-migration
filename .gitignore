@@ -1,0 +1,21 @@
+# Secrets: NEVER commit these
+.env
+*.pem
+*.p8
+
+# Python
+__pycache__/
+.venv/
+venv/
+*.pyc
+
+# Extracted data files (too big and possibly sensitive)
+data/
+*.parquet
+*.csv
+
+# Logs / OS / editor
+*.log
+.DS_Store
+Thumbs.db
+.vscode/

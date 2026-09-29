@@ -1,0 +1,7 @@
+# Store text files with Linux line endings so scripts run inside the Oracle
+# Docker container (Linux) and in GitHub Actions without CRLF problems.
+* text=auto eol=lf
+*.sql text eol=lf
+*.py  text eol=lf
+*.md  text eol=lf
+*.yml text eol=lf

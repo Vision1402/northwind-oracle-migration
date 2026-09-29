@@ -46,7 +46,7 @@ validation/           Python: reconcile Oracle vs Snowflake
 | Ticket  | Description | Status |
 |---------|-------------|--------|
 | NWM-137 | Build legacy Oracle system in Docker | ✅ Done |
-| NWM-138 | Repo + Snowflake DEV/PROD environments | 🔄 In progress |
+| NWM-138 | Repo + Snowflake DEV/PROD environments | ✅ Done |
 | NWM-142 | Migrate CUSTOMERS, ORDERS, ORDER_LINES + loyalty logic | ⏳ To do |
 
 ## Running the legacy system locally
